@@ -1,0 +1,4 @@
+[submodule "difodoo"]
+	path = difodoo
+	url = git@gitlab.com:Assistance.Difference/difodoo.git
+	branch = master
