@@ -1,0 +1,4 @@
+[submodule "stevencastel/difodoo"]
+	path = stevencastel/difodoo
+	url = git@github.com:stevencastel/test_install2.git
+	branch = testdev
